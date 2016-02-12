@@ -26,7 +26,7 @@
 
   <engines>
     <engine name="cordova-android" version="5.0.0" />
-    <engine name="cordova-ios" version="4.0.0" />
+    <engine name="cordova-ios" version="4.0.1" />
   </engines>
 
   <dependency id="cordova-plugin-whitelist" />
